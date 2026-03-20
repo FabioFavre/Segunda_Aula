@@ -1,4 +1,4 @@
-# Segunda_Aula
+# Primeira_Aula
 Este repositório contém um estudo prático sobre a geração, visualização e manipulação de sinais sonoros utilizando Python. O notebook está organizado de forma a guiar o professor através de experimentos com sinais sintéticos e reais.
 
 📋 Conteúdo do Notebook
